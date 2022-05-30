@@ -1,0 +1,3 @@
+[submodule "subm_repo"]
+	path = subm_repo
+	url = https://github.com/SamuelLazzaro/subm_repo.git
